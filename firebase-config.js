@@ -11,7 +11,9 @@ const firebaseConfig = {
   storageBucket: "tcgjwbndr.firebasestorage.app",
   messagingSenderId: "617815082011",
   appId: "1:617815082011:web:edaab0fb6514fb900764be",
+  measurementId: "G-TM31NC6Y8W"
 };
+
 
 // Initialisation de Firebase et des services
 const app = initializeApp(firebaseConfig);
